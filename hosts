@@ -1,3 +1,5 @@
+# 很多广告都是请求pos.baidu.com过来的
+127.0.0.1 pos.baidu.com
 127.0.0.1 baike.baidu.com
 127.0.0.1 hi.baidu.com
 127.0.0.1 im.baidu.com
